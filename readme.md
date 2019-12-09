@@ -1,5 +1,5 @@
-# Looping
-- For
-- While
-- Nested loops
+# Control Statements
+- Break
+- Continue
+- Pass
 
