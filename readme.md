@@ -1,9 +1,11 @@
-# Lists
+# Tuple
 - Introduction
-- Accessing list
+- Accessing tuples
 - Operations
-- Working with lists
-- Function and Methods
+- Working
+- Functions and Methods
+
+
 
 
 
