@@ -1,6 +1,6 @@
-# Dictionaries
+# Set
 - Introduction
-- Accessing values in dictionaries
-- Working with dictionaries
+- Accessing values in set
+- Working with set
 - Properties
 - Functions

@@ -1,32 +1,36 @@
 
-studentID = {
-    "101": "Jayanta Biswas",
-    "102": "Rony Debnath",
-    "103": "Araf Karim",
-    "104": "Baki Billaha",
-    "105": "Joy Ali",
-}
+num = {1, 2, 3, 4, 5}
+print(num)
 
-# show
-print(studentID)
-print(studentID["103"])
-# error
-# print(studentID["106"])
-print(studentID.get("104"))
-print(studentID.get("106")) # none
-print(studentID.get("106", "Key doesn't exists."))
+num1 = {1, 2, 3, 4, 5, 5, 4}
+print(num1)
 
-# Updating Dictionary
-studentID["103"] = "Araf Ali"
-print(studentID)
+# list to set
+num2 = set([4, 5, 6, 5])
+print(num2)
 
-# Delete Dictionary Elements
-del studentID["101"] # remove an element
-print(studentID)
+# add
+num.add(7)
+print(num)
 
-studentID.clear() # remove all elements
-print(studentID)
+# remove
+num.remove(7)
+print(num)
 
-del studentID # delete dictionary
-print(studentID)
+# el exists or not
+print(4 in num)
+print(7 in num)
+print(7 not in num)
 
+# ex:
+a = {1, 2, 3, 4, 5}
+b = set([4, 5, 6, 7])
+
+# union
+print(a | b)
+
+# intersection
+print(a & b)
+
+# difference
+print(a - b)
