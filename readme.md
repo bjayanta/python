@@ -1,11 +1,6 @@
-# Tuple
+# Dictionaries
 - Introduction
-- Accessing tuples
-- Operations
-- Working
-- Functions and Methods
-
-
-
-
-
+- Accessing values in dictionaries
+- Working with dictionaries
+- Properties
+- Functions

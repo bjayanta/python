@@ -1,47 +1,32 @@
 
-students = (
-    "Jayanta Biswas",
-    "Joy",
-    "Shibbir",
-    "Maruf Hasan"
-)
+studentID = {
+    "101": "Jayanta Biswas",
+    "102": "Rony Debnath",
+    "103": "Araf Karim",
+    "104": "Baki Billaha",
+    "105": "Joy Ali",
+}
 
-print(students)
-print(students[1])
+# show
+print(studentID)
+print(studentID["103"])
+# error
+# print(studentID["106"])
+print(studentID.get("104"))
+print(studentID.get("106")) # none
+print(studentID.get("106", "Key doesn't exists."))
 
-# students[1] = "Baky" # error
-# print(students)
+# Updating Dictionary
+studentID["103"] = "Araf Ali"
+print(studentID)
 
-students = (
-    "Jayanta Biswas",
-    (10, 15, 20, 25),
-    "Joy",
-    "Shibbir",
-    "Maruf Hasan"
-)
+# Delete Dictionary Elements
+del studentID["101"] # remove an element
+print(studentID)
 
-print(students)
-print(students[1])
+studentID.clear() # remove all elements
+print(studentID)
 
-print(students[2:])
-print(students[-1])
+del studentID # delete dictionary
+print(studentID)
 
-# join
-tup1 = (12, 34.56)
-tup2 = ('abc', 'xyz')
-
-tup3 = tup1 + tup2
-print(tup3)
-
-# nested tuple
-my_tuple = ("mouse", [8, 4, 6], (1, 2, 3))
-print(my_tuple)
-
-# assignment
-my_tuple = (3, 4.6, "dog")
-print(my_tuple)
-
-a, b, c = my_tuple
-print(a)      # 3
-print(b)      # 4.6
-print(c)      # dog
