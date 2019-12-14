@@ -53,6 +53,13 @@
     - Properties
     - Functions
 
+09. Set
+    - Introduction
+    - Accessing values in set
+    - Working with set
+    - Properties
+    - Functions
+
 09. Functions
     - Defining a function
     - Calling a function
