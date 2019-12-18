@@ -1,10 +1,7 @@
-# OOPs concept (Advance Python)
-- Class and object
-- Attributes
-- Inheritance
-    - Hierarchical 
-    - Multi-Level
-    - Multiple
-- Overloading
-- Overriding
-- Data hiding
+# Regular expressions
+- Match function
+- Search function
+- Matching VS Searching
+- Modifiers
+- Patterns
+
