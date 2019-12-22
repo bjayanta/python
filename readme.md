@@ -1,12 +1,9 @@
-# Database
-- Introduction
-- Connections
-- Executing queries
-- Transactions
-- Handling error
+# Networking
+- Socket
+- Socket Module
+- Methods
+- Client and server
+- Internet modules
 
-**NB:**
-1. Install MySQL Connector 
-    > python -m pip install mysql-connector
-2. Now you have downloaded and installed a MySQL driver.
-    > https://dev.mysql.com/downloads/connector/python/
+*NB. Please the YOUTUBE tutorial on*
+[Socket Programming](https://www.youtube.com/watch?v=6jteAOmdsYg&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF).
