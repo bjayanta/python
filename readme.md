@@ -6,6 +6,6 @@
 - Class & Instance
 - Functions In Classes
 - Inheritance
-- Encapsulation
+- Encapsulation & Abstraction
 - Properties
 - Recap Of OOP Principles

@@ -1,5 +1,3 @@
-from email.mime import base
-
 
 class SoftwareEngineer:
     
