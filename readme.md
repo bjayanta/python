@@ -1,7 +1,9 @@
-# Python 
+# Python
+
 [Python](https://www.python.org/) is an interpreted, high-level, general-purpose programming language. Created by [Guido van Rossum](https://gvanrossum.github.io/) and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
 
-### Topics
+## Topics
+
 01. Introduction
     - History
     - Features
@@ -13,7 +15,7 @@
 
 02. Conditional Statements
     - If
-    - If- else
+    - If else
     - Nested if-else
 
 03. Looping
@@ -52,7 +54,7 @@
     - Working with dictionaries
     - Properties
     - Functions
-    
+
 09. Set
     - Introduction
     - Accessing values in set
@@ -60,7 +62,7 @@
     - Properties
     - Functions
 
-09. Functions
+10. Functions
     - Defining a function
     - Calling a function
     - Types of functions
@@ -68,28 +70,28 @@
     - Anonymous functions
     - Global and local variables
 
-10. Modules
+11. Modules
     - Importing module
     - Math module
     - Random module
     - Packages
     - Composition
 
-11. Input-Output
+12. Input-Output
     - Printing on screen
     - Reading data from keyboard
     - Opening and closing file
     - Reading and writing files
     - Functions
 
-12. Exception Handling
+13. Exception Handling
     - Exception
     - Exception Handling
     - Except clause
     - Try ? finally clause
     - User Defined Exceptions
 
-13. OOPs concept (Advance Python)
+14. OOPs concept (Advance Python)
     - Class and object
     - Attributes
     - Inheritance
@@ -97,14 +99,14 @@
     - Overriding
     - Data hiding
 
-14. Regular expressions
+15. Regular expressions
     - Match function
     - Search function
     - Matching VS Searching
     - Modifiers
     - Patterns
 
-15. CGI
+16. CGI
     - Introduction
     - Architecture
     - CGI environment variable
@@ -112,30 +114,30 @@
     - Cookies
     - File upload
 
-16. Database
+17. Database
     - Introduction
     - Connections
     - Executing queries
     - Transactions
     - Handling error
 
-17. Networking
+18. Networking
     - Socket
     - Socket Module
     - Methods
     - Client and server
     - Internet modules
 
-18. Multithreading
+19. Multithreading
     - Thread
     - Starting a thread
     - Threading module
     - Synchronizing threads
     - Multithreaded Priority Queue
 
-19. GUI Programming
+20. GUI Programming
     - Introduction
     - Tkinter programming
     - Tkinter widgets
 
-20. Sending email
+21. Sending email
